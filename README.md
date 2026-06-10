@@ -40,6 +40,9 @@ The data is structured in a tabular format where each row represents a single tr
 
 ## Data Collection and Preparation 
 #### Raw data:
+The dataset on Retail Store Transaction was obtained from Kaggle.
+[Download Retail Store Transcation](Retail_raw_data.xlsx)
+
 
 
 
