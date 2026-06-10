@@ -74,7 +74,9 @@ The visualizations developed include:
             - Waterfall Chart: This visualization displays the cumulative contribution of the top 20 customers based on total sales amount.
             - Cards/KPI Visualizations: Used to present important measures such as Total Revenue Total Customers, and Total Quantity Sold.
 
+ - ![Retail](retail_pic.png)
 
+## Insight from analysis
 
 
 
