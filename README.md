@@ -77,8 +77,13 @@ The visualizations developed include:
  - ![Retail](retail_pic.png)
 
 ## Insight from analysis
+- The monthly revenue trend reveals that the business is highly influenced by seasonal demand, with December acting as the strongest revenue driver. June provides a secondary boost, while August represents a slowdown period. Understanding this pattern allows better planning for inventory, marketing, and revenue forecasting.
+- The daily revenue trend shows that customer purchasing behavior is strongly influenced by the weekly cycle. Friday stands out as the highest revenue-generating day, driven by pre-weekend shopping activity, while Sunday records the lowest due to reduced consumer engagement.
 
+## Conclusion
+- This project analyzed retail sales transaction data using Power BI to gain insights into customer behavior, sales performance, and revenue trends. Through the use of KPI cards, monthly revenue analysis, daily revenue analysis, and customer sales analysis, important patterns were identified that can support business decision-making.
 
+The analysis revealed that sales performance varies across different periods. December recorded the highest revenue, indicating a strong seasonal effect likely driven by increased customer spending during the festive period, while August recorded the lowest revenue, suggesting a period of reduced demand. Similarly, daily sales analysis showed that Friday generated the highest revenue, followed by Thursday, whereas Sunday recorded the lowest revenue, highlighting the influence of weekly purchasing patterns on business performance.
 
 
 
